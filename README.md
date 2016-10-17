@@ -39,16 +39,16 @@ were discussed in this lesson, such as <code>main</code> and <code>section</code
 
 Instructions from Lesson 4:
 - [x] Quiz.
-- [ ] Think about the way the browsers styles the text content of your documents.
-- [ ] Are your pages easy to scan and comfortable to read?
-- [ ] How could you use typography to improve readability and enforce content hierarchy and importance?
-- [ ] How do different font families look when paired with each other?
-- [ ] Test out some different font stacks and note how fallbacks differ.
-- [ ] Return your site and think about how color could improve the readability and usability of your pages.
-- [ ] Try out a few different color forms (hex, RGB, HSL). Which feels more natural? Are there pros and cons to working in each?
-- [ ] Does your design have enough contrast? Check it using the Greyscale plug-in for Chrome.
-- [ ] Add borders and padding to elements on your pages.
-- [ ] Play with different display models (especially inline and inline-block) and see how they affect the way elements lay out with respect to one another.
-- [ ] How does adjusting an element's size help add weight to it or diminish its visibility as compared to other elements?
-- [ ] Explore the box model and the different display modes covered in this lesson.
-- [ ] Publish your work to Github and post a link in the forum along with your observations.
+- [x] Think about the way the browsers styles the text content of your documents.
+- [x] Are your pages easy to scan and comfortable to read?
+- [x] How could you use typography to improve readability and enforce content hierarchy and importance?
+- [x] How do different font families look when paired with each other?
+- [x] Test out some different font stacks and note how fallbacks differ.
+- [x] Return your site and think about how color could improve the readability and usability of your pages.
+- [x] Try out a few different color forms (hex, RGB, HSL). Which feels more natural? Are there pros and cons to working in each?
+- [x] Does your design have enough contrast? Check it using the Greyscale plug-in for Chrome.
+- [x] Add borders and padding to elements on your pages.
+- [x] Play with different display models (especially inline and inline-block) and see how they affect the way elements lay out with respect to one another.
+- [x] How does adjusting an element's size help add weight to it or diminish its visibility as compared to other elements?
+- [x] Explore the box model and the different display modes covered in this lesson.
+- [x] Publish your work to Github and post a link in the forum along with your observations.
