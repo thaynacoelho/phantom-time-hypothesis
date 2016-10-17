@@ -1,3 +1,42 @@
+header,
+footer {
+	background-color: #000;
+	color: #fff;
+	padding-top: 2em;
+}
+
+nav {
+	background-color: #FFF80E;
+	padding-top: 0.75em;
+	padding-bottom: 0.5em;
+	text-transform: uppercase;
+}
+
+nav li {
+	list-style-type: none;
+	display: inline-block;
+	text-decoration: none;
+}
+
+nav li a {
+	padding-right: 2em;
+	padding-left: 2em;
+	font-weight: bold;
+	color: #000;
+}
+
+nav li a:visited {
+	background-color: #000;
+}
+
+nav li a:hover,
+p > a:hover {
+	background-color: #000;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
 p,
 li {
 	font-family: 'Cabin', sans-serif;
@@ -9,36 +48,8 @@ p > a  {
 	padding:  0.25em;	
 }
 
-nav {
-	background-color: #FFF80E;
-	padding-top: 0.75em;
-	padding-bottom: 0.5em;
-	text-transform: uppercase;
-}
-
-nav li a {
-	padding-right: 2em;
-	padding-left: 2em;
-	font-weight: bold;
-	color: #000;
-}
-
-p > a:hover,
-nav li a:hover {
-	background-color: #6A686E;
-	color: #fff;
-	text-decoration: none;
-}
-
 h1 {
-	font-family: 'Creepster', cursive;
-}
-
-footer > p,
-h1 {
-	background-color: #000;
-	color: #fff;
-	padding: 2em;
+	font-family: 'Old Standard TT', serif;
 }
 
 h1,
@@ -47,24 +58,27 @@ footer {
 	text-align: center;
 }
 
-nav li {
-	list-style-type: none;
-	display: inline-block;
-	text-decoration: none;
+h2 {
+	font-family: 'Old Standard TT', serif;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	border-bottom: 2px dashed black;
+	border-radius: 5px;
+	font-weight: bold;
 }
 
 main,
 section {
-	margin: 3em;
+	margin-left: 3em;
+	margin-right: 3em;
 }
 
-h2 {
-	text-align: center;
-	background-color: #6A686E;
-	color: #fff;
-	font-family: 'Old Standard TT', serif;
+figure img {
+	width: 97%;
+	padding-top: 2.5em;
+	padding-bottom: 2.5em;
 }
 
-figure {
-	text-align: center;
+footer {
+	padding-bottom: 1em;
 }
