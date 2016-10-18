@@ -32,7 +32,7 @@ nav li a:visited {
 nav li a:hover,
 p > a:hover {
 	background-color: #000;
-	color: #fff;
+	color: #FFF80E;
 	text-decoration: none;
 	border-radius: 5px;
 }
@@ -75,8 +75,7 @@ section {
 
 figure img {
 	width: 97%;
-	padding-top: 2.5em;
-	padding-bottom: 2.5em;
+	margin: 2.5em;
 }
 
 footer {
