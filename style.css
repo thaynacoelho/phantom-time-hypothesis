@@ -1,3 +1,46 @@
+@media (max-width: 48em) {
+
+	body {
+		font-size: 1em;
+		margin: 0;
+	}
+
+	nav ul li {
+		display: block;
+		margin:  auto;
+		padding: 0;
+		text-align: center;
+		border-bottom: 1px solid black;
+	}
+	
+	main, 
+	nav ul li {
+		margin-right: 2em;
+	}
+
+	figure::after {
+		content: " ";
+		display: block;
+		clear: both;
+		width: 0;
+		height: 0;
+
+	}
+
+	.heribert img {
+		width:  100%;
+		height: auto;
+		display: block;
+		position: static;
+		float: none;
+		margin:  auto;	
+	}
+
+	.mobile-hidden {
+		display: none;
+	}
+}
+
 header,
 footer {
 	background-color: #000;
@@ -18,9 +61,12 @@ nav li {
 	text-decoration: none;
 }
 
+a {
+	text-decoration: none;
+}
+
 nav li a {
-	padding-right: 2em;
-	padding-left: 2em;
+	margin: auto;
 	font-weight: bold;
 	color: #000;
 }
@@ -67,17 +113,48 @@ h2 {
 	font-weight: bold;
 }
 
-main,
-section {
-	margin-left: 3em;
-	margin-right: 3em;
+main {
+	margin-bottom: 2em;
+	margin-left: 2em;
+}
+
+main::after {
+	content: " ";
+	display: block;
+	clear: both;
+	width: 0;
+	height: 0;
 }
 
 figure img {
-	width: 97%;
-	margin: 2.5em;
+	width: 50%;
+	height: auto;
+	position: relative;
+	float: right;
+	margin: 0.5em;
+}
+
+.back-top {
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #000;
+	margin: auto;
+	padding: 1em;
+	background-color: #FFF80E;
+	width: 3em;
+	height: 3em;
+	-webkit-border-radius: 2em;
+	-moz-border-radius: 2em;
+	border-radius: 2em;
+	
 }
 
 footer {
+	margin-top: 1.5em;
 	padding-bottom: 1em;
+	padding-right: 1.5em;
+	padding-left: 1.5em;
 }
+
