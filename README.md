@@ -52,3 +52,28 @@ Instructions from Lesson 4:
 - [x] How does adjusting an element's size help add weight to it or diminish its visibility as compared to other elements?
 - [x] Explore the box model and the different display modes covered in this lesson.
 - [x] Publish your work to Github and post a link in the forum along with your observations.
+
+Instructions from Lesson 5:
+- [x] Quiz
+- [x] Enhance your design using backgrounds, borders, and generated content. We recommend starting
+with backgrounds and borders in order to separate your content and adjust how your eye is drawn
+across the page using those design tools. Some questions to ask yourself as you experiment with
+these properties:
+* How do solid color backgrounds compare to subtle gradients in terms of drawing your eye?
+* Knowing how you make a triangle, could you guess on how to make a circle out of an element?
+* Are there places in your design where it makes sense to use generated text or images?
+* When you’re done with your enhancements, publish your work on GitHub, post a link in the forum,
+and post some of your observations of working with these different design tools.
+- [x] Begin exploring the use of CSS media queries as a method for creating layouts for different size
+screens. To begin, shrink your browser width to roughly 320 pixels and adjust your layout to provide
+a good reading experience. Then, slowly increase the width of your browser until the design starts to
+look not-so-great, and use a media query to adjust the layout. Repeat this process at least once, if not
+twice, until you have a couple of different layouts for your design. Some questions to answer at the
+end of this process:
+* How many major and minor breakpoints did you end up with?
+* What did you find challenging about this process?
+* Publish your work on GitHub and post a link to it in the forum, along with your observations and
+answers to these questions.
+- [ ] Look for ways to include transforms and transitions in your site. For example, see what happens when
+you transition the width property for every element on the page as you resize the browser. Post your
+findings and what you’ve done in the forum.
